@@ -6,7 +6,7 @@
 
 [![Bogdan's github stats](https://github-readme-stats.vercel.app/api?username=bogdan-veliscu&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Contact me on Codementor](https://www.codementor.io/m-badges/bogdanveliscu/im-a-cm-b.svg)](https://www.codementor.io/@bogdanveliscu?refer=badge)
 <!--
 **bogdan-veliscu/bogdan-veliscu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
